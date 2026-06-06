@@ -42,7 +42,7 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>spring</h2>
-		<p>spring</p>
+		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
