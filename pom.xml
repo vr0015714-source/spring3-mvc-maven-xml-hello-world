@@ -74,6 +74,12 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-maven-plugin</artifactId>
         </plugin>
+			<distributionManagement>
+    <repository>
+        <id>nexus-springapp</id>
+        <url>http://your-nexus-url/repository/springapp/</url>
+    </repository>
+</distributionManagement>
 			
 		</plugins>
 	</build>
